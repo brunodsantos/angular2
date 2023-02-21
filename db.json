@@ -1,0 +1,149 @@
+{
+  "enquiry": [
+    {
+      "firstName": "joao",
+      "lastName": "jon",
+      "email": "joaono@gmail.com",
+      "mobile": "123456789",
+      "weight": 70,
+      "height": 1.5,
+      "bmi": 31.1,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Fat reduction",
+        "Fit body",
+        "Healthier lifestyle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-23T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "maria",
+      "lastName": "jo",
+      "email": "mariajoa@gmail.com",
+      "mobile": "987654321",
+      "weight": 50,
+      "height": 1.7,
+      "bmi": 17.3,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Build muscle",
+        "Fit body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-28T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "bruno",
+      "lastName": "santos",
+      "email": "brunomjsantos.09@gmail.com",
+      "mobile": "912469837",
+      "weight": 75,
+      "height": 1.77,
+      "bmi": 23.9,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Fat reduction",
+        "Build muscle",
+        "Gain strength",
+        "Energy and endurance",
+        "Fit body",
+        "Healthier lifestyle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-28T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "m",
+      "email": "miam@hotmail.com",
+      "mobile": "123987465",
+      "weight": 80,
+      "height": 1.9,
+      "bmi": 22.2,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Build muscle",
+        "Gain strength"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-21T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "firstName": "bruna",
+      "lastName": "xica",
+      "email": "brunaxica@otlook",
+      "mobile": "123459873",
+      "weight": 66,
+      "height": 1.6,
+      "bmi": 25.8,
+      "bmiResult": "Overweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Fat reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-20T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "mario",
+      "lastName": "jun",
+      "email": "mariodjun@gmail.com",
+      "mobile": "567123890",
+      "weight": 90,
+      "height": 1.67,
+      "bmi": 32.3,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Quaterly",
+      "important": [
+        "Gain strength"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-21T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "firstName": "augusto",
+      "lastName": "avo",
+      "email": "augusto@hotmail.pt",
+      "mobile": "934567234",
+      "weight": 60,
+      "height": 1.6,
+      "bmi": 23.4,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Build muscle",
+        "Energy and endurance",
+        "Fit body",
+        "Healthier lifestyle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-28T00:00:00.000Z",
+      "id": 10
+    }
+  ]
+}

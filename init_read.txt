@@ -1,0 +1,6 @@
+use on console json-server --watch db.json
+
+change db.json
+{
+    "enquiry":[]
+}
