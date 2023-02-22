@@ -1,5 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { environment } from 'src/environments/environment';
 import { User } from '../models/user.model';
 
 @Injectable({
@@ -8,7 +9,7 @@ import { User } from '../models/user.model';
 export class ApiService {
 
 
-    private baseUrl:string ='http://localhost:3000/enquiry'
+    private baseUrl:string = environment.URL;
   constructor(private http: HttpClient) { }
   
   postRegistration(registerObj:User){
